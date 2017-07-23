@@ -41,7 +41,7 @@
 	$colors = array('rojo', 'azul', 'verde', 'amarillo');
 
 foreach ($colors as $color) {
-    echo "¿Le gusta el $color?" . "<br>";
+    echo "¿Les gusta el $color?" . "<br>";
 }
 $b = array('a', 'b', 'c');
 foreach ($b as $c) {
