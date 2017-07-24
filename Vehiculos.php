@@ -10,7 +10,7 @@
 	  }
 	  
 	  function arrancar(){
-		  echo "Estot arrancando";
+		  echo "Estoy arrancando";
 	  }
 	  
 	  function da_color($que_color){

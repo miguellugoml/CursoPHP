@@ -8,13 +8,13 @@
 <body>
 
 <p>&nbsp;</p>
-<form name="form1" method="post" action="calculadora.php">
+<form name="form1" method="POST" action="calculadora.php">
   <p>
-    <label for="num1"></label>
+    <label>Número 1</label>
     <input type="text" name="num1" id="num1">
-    <label for="num2"></label>
+    <label>Número 2</label>
     <input type="text" name="num2" id="num2">
-    <label for="operacion"></label>
+    <label>Operación</label>
     <select name="operacion" id="operacion">
       <option>Suma</option>
       <option>Resta</option>

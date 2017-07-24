@@ -13,10 +13,11 @@
   echo $Toyota->motor . "<br>";
   echo $Toyota->arrancar();
   $Toyota->da_color("Blanco");
+  echo "<br>";
   echo $Toyota->color . "<br>";
   
   $Ford = new coche();
-  echo $Ford->ruedas . "<br>";
+  echo "Las ruedas del Carro son: " . $Ford->ruedas . "<br>";
   $Ford->da_color("Azul");
   echo $Ford->color . "<br>";
   
